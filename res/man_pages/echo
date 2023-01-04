@@ -1,0 +1,16 @@
+--------------------------------
+ECHO - User Commands
+
+NAME
+       echo - display a line of text
+
+SYNOPSIS
+       echo [STRING]
+
+DESCRIPTION
+       Echo the STRING to standard output.
+
+AUTHORS
+       Written by Maddy De Wancker, Malak Hayar and Pierre Foulon.
+
+EPO Shell 8.32 - May 2022

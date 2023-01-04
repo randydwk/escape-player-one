@@ -1,0 +1,19 @@
+--------------------------------
+TIMER - User Commands
+
+NAME
+       timer - the timer of this escape game
+
+SYNOPSIS
+       timer
+
+DESCRIPTION
+       Print the remaining time until the system restarts.
+       
+       If the system is corrupted when restarting, you will be trapped
+       here forever as the player.
+
+AUTHORS
+       Written by Maddy De Wancker, Malak Hayar and Pierre Foulon.
+
+EPO Shell 8.32 - May 2022

@@ -1,0 +1,25 @@
+
+       ^ ,-\.,&
+   ` _$/   -9-
+   ,0 è #b. ) '`
+   00*8yM@   
+ `/9 MMP'     
+
+// When the player uses a bomb, it flashes during 10 frames then explodes
+
+int time = 10;
+
+while (time > 0){
+    bomb.flash();
+    ??;
+}
+
+bomb.explode();
+
+-------------------------------------
+|                                   |
+| The bomb is corrupted.            |
+| (Help: man java)                  |
+|                                   |
+-------------------------------------
+$Replace ?? ->$time--|time-=1|time -= 1|time = time - 1|time = time -1|time=time-1$catout game_data/bomb$rm bomb_CORRUPTED.txt -r$mkres game_data/bomb . bomb$mkres link/instruction4 /players/link instruction4

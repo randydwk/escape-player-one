@@ -1,0 +1,16 @@
+--------------------------------
+LS - User Commands
+
+NAME
+       ls - list directory contents
+
+SYNOPSIS
+       ls
+
+DESCRIPTION
+       List information about the current directory.
+
+AUTHORS
+       Written by Maddy De Wancker, Malak Hayar and Pierre Foulon.
+
+EPO Shell 8.32 - May 2022

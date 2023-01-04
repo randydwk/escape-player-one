@@ -1,0 +1,11 @@
+-------------------------------------
+|                                   |
+| The compiler is corrupted.        |
+|                                   |
+| Type the answer in binary:        |
+| ((NOT 001100) XOR 011001)         | 
+|                                   |
+| (Help: man binary)                |
+|                                   |
+-------------------------------------
+$->$101010$catout system/compiler$rm compiler_CORRUPTED.txt -r$mkres system/compiler . compiler$mkres link/instruction6 /players/link instruction6

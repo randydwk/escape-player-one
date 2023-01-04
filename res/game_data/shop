@@ -1,0 +1,22 @@
+
+// The players needs at least 10 rubies to buy arrows
+
+int rubies = 16;
+boolean buy = true;
+
+if (buy){
+    if (rubies >= 10) {
+        inventory.add("arrows");
+    } else {
+        textbox("You don't have enough rubies");
+    }
+}
+
+-------------------------------------
+|                                   |
+| The shop program is repaired.     |
+|                                   |
+| 'instruction3.txt' file unlocked  |
+| in /players/link/                 |
+|                                   |
+-------------------------------------

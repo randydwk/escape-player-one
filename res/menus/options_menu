@@ -1,0 +1,19 @@
+
+// When the players selects a menu, change the name of the current menu 
+
+String[] options = String[]{"Video","Audio","Controls"};
+int selection;
+String currentMenu = "Options";
+
+if (selection != -1){
+    currentMenu = options[selection];
+}
+
+-------------------------------------
+|                                   |
+| The options menu is repaired.     |
+|                                   |
+| 'instruction7.txt' file unlocked  |
+| in /players/link/                 |
+|                                   |
+-------------------------------------

@@ -1,0 +1,20 @@
+--------------------------------
+CAT - User Commands
+
+NAME
+       cat - concatenate files and print on the standard output
+
+SYNOPSIS
+       cat FILE
+
+DESCRIPTION
+       Concatenate FILE(s) to standard output.
+
+EXAMPLE
+       cat f
+              Output f's contents.
+
+AUTHORS
+       Written by Maddy De Wancker, Malak Hayar and Pierre Foulon.
+
+EPO Shell 8.32 - May 2022

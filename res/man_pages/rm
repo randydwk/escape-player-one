@@ -1,0 +1,20 @@
+--------------------------------
+RM - User Commands
+
+NAME
+       rm - remove files or directories
+
+SYNOPSIS
+       rm FILE
+
+DESCRIPTION
+       rm will always prompts the user for whether to proceed with the entire
+       operation. If the response is not affirmative, the entire command is
+       aborted.
+
+       Note that you must be an administrator to run this command.
+
+AUTHORS
+       Written by Maddy De Wancker, Malak Hayar and Pierre Foulon.
+
+EPO Shell 8.32 - May 2022

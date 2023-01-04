@@ -1,0 +1,21 @@
+--------------------------------
+CD - User Commands
+
+NAME
+       Change the shell working directory.
+
+SYNOPSIS
+       cd [DIR]
+
+DESCRIPTION
+       Change the current directory to DIR.
+       A null directory name goes to the user default directory.
+
+EXAMPLE
+       cd /
+              Change the shell working directory to the root.
+
+AUTHORS
+       Written by Maddy De Wancker, Malak Hayar and Pierre Foulon.
+
+EPO Shell 8.32 - May 2022

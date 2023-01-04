@@ -1,0 +1,9 @@
+-------------------------------------
+|                                   |
+| You found the missing datafile.   |
+|                                   |
+| 'instruction8_last.txt' file      |
+| unlocked in /players/link/        |
+|                                   |
+-------------------------------------
+$execute$mkres link/instruction8_last /players/link instruction8_last

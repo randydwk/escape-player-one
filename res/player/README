@@ -1,0 +1,20 @@
+-------------------------------------
+|                                   |
+| Welcome to the shell.             |
+|                                   |
+| If you see this, that means that  |
+| the game has crashed and is       |
+| now corrupted.                    |
+|                                   |
+| You have 45 minutes to fix it     |
+| using bash commands.              |
+| (Type 'man' for help)             |
+|                                   |
+| If it's not done in 45 minutes,   |
+| the game will restart and you     |
+| will stay here forever.           |
+| (Type 'timer' to see the timer)   |
+|                                   |
+| Good luck.                        |
+|                                   |
+-------------------------------------

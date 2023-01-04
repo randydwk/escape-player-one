@@ -1,0 +1,20 @@
+
+======== LOGS ========
+
+Date      Hour      Message
+10-06-72  18:10:05  Your game ran into a problem
+10-06-72  18:10:06  ERROR <0x42 6f 6e 6a 6f 75 72 20 4d 6f 6e 73 69
+10-06-72  18:10:06  65 75 72 20 54 69 6e 63 68 6f 6e 20 65 74 20 4d
+10-06-72  18:10:07  61 64 61 6d 65 20 44 65 6c 69 6c 6c 65 20 21>
+10-06-72  18:10:08  MISSING PLAYER
+10-06-72  18:10:09  LOOKING FOR PLAYER ...
+10-06-72  18:10:12  PLAYER FOUND SUCCESFULLY
+10-06-72  18:10:13  Making file 'char_data.txt' in /players/link/data/
+10-06-72  18:10:13  Throwing logs.txt into the trash.
+
+-------------------------------------
+|                                   |
+| Please find the missing datafile. |
+|                                   |
+-------------------------------------
+$execute$mkdir data /players/link$mkres link/char_data /players/link/data char_data

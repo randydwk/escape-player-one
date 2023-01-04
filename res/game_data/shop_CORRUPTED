@@ -1,0 +1,21 @@
+
+// The players needs at least 10 rubies to buy arrows
+
+int rubies = 16;
+boolean buy = true;
+
+if (buy){
+    if (?? 10) {
+        inventory.add("arrows");
+    } else {
+        textbox("You don't have enough rubies");
+    }
+}
+
+-------------------------------------
+|                                   |
+| The shop program is corrupted.    |
+| (Help: man java)                  |
+|                                   |
+-------------------------------------
+$Replace ?? ->$rubies >=|rubies>=$catout game_data/shop$rm shop_CORRUPTED.txt -r$mkres game_data/shop . shop$mkres link/instruction3 /players/link instruction3

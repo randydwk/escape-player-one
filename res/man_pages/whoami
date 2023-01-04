@@ -1,0 +1,16 @@
+--------------------------------
+WHOAMI - User Commands
+
+NAME
+       whoami - print effective userid
+
+SYNOPSIS
+       whoami
+
+DESCRIPTION
+       Print the user name associated with the current effective user ID.
+
+AUTHORS
+       Written by Maddy De Wancker, Malak Hayar and Pierre Foulon.
+
+EPO Shell 8.32 - May 2022

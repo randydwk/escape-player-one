@@ -1,0 +1,54 @@
+--------------------------------
+JAVA - Java Documentation
+
+NAME
+       java - an object-oriented language
+
+DESCRIPTION
+       Java is a high-level, class-based, object-oriented programming language
+       that is designed to have as few implementation dependencies as possible.
+       It is a general-purpose programming language intended to let programmers
+       write once, run anywhere, meaning that compiled Java code can run on all
+       platforms that support Java without the need to recompile.
+
+SYNTAX
+       
+    IF STATEMENT
+
+        if (variable1 ==|<|<=|>|>=|!= variable2){
+            // Do something
+        } else {
+            // Do something else
+        }
+
+    FOR LOOPS
+    
+        for (int i = 0; i < variable; i++){
+            // Do something
+        }
+        
+    WHILE LOOPS
+    
+        boolean condition = true;
+        
+        while (condition){
+            // Do something
+        }
+    
+    TABLES
+    
+        int[] myTable = new int[]{0,1,2,3,4,5};
+        
+        myTable[x]; // Returns the element at the index x of this table
+    
+    ARRAYLISTS
+
+        ArrayList<String> list = new ArrayList<String>;
+        
+        list.get(x); // Returns the element at the index x of this ArrayList
+        list.size(); // Returns the size of this ArrayList
+
+AUTHORS
+       Written by Maddy De Wancker, Malak Hayar and Pierre Foulon.
+
+EPO Shell 8.32 - May 2022

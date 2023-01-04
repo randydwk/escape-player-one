@@ -1,0 +1,18 @@
+--------------------------------
+MKDIR - User Commands
+
+NAME
+       mkdir - make directories
+
+SYNOPSIS
+       mkdir DIRECTORY
+
+DESCRIPTION
+       Create the DIRECTORY, if they do not already exist.
+       
+       Note that you must be an administrator to run this command.
+
+AUTHORS
+       Written by Maddy De Wancker, Malak Hayar and Pierre Foulon.
+
+EPO Shell 8.32 - May 2022

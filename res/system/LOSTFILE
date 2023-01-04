@@ -1,0 +1,8 @@
+-------------------------------------
+|                                   |
+| A file was lost during the crash. |
+| Please find it.                   |
+| It may be in the trash.           |
+|                                   |
+-------------------------------------
+$execute$mkdir game_data /.trash$mkres system/logs /.trash/game_data logs

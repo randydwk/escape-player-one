@@ -1,0 +1,30 @@
+--------------------------------
+BINARY - Binary Documentation
+
+NAME
+       binary - base-2 numeral system
+
+DESCRIPTION
+       A binary number is a number expressed in the binary numeral system,
+       a method of mathematical expression which uses only "0" and "1".
+       Each digit is referred to as a bit, or binary digit.
+       
+EXAMPLE
+       Binary digits :  1     0     1     1     0     0     1     1
+       Powers of 2   :  2⁷    2⁶    2⁵    2⁴    2³    2²    2¹    2⁰
+                        128   64    32    16    8     4     2     1
+       Result        :  128 + 0  +  32 +  16 +  0  +  0  +  2  +  1 = 179
+
+LOGIC GATES
+
+        NOT           AND             OR              XOR
+       A | R       A   B | R       A   B | R       A   B | R
+       0 | 1       0   0 | 0       0   0 | 0       0   0 | 0
+       1 | 0       1   0 | 0       1   0 | 1       1   0 | 1
+                   0   1 | 0       0   1 | 1       0   1 | 1
+                   1   1 | 1       1   1 | 1       1   1 | 0
+
+AUTHORS
+       Written by Maddy De Wancker, Malak Hayar and Pierre Foulon.
+
+EPO Shell 8.32 - May 2022

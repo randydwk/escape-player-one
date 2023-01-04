@@ -1,0 +1,10 @@
+-------------------------------------
+|                                   |
+| The main menu is corrupted.       |
+|                                   |
+| Convert this code in hexadecimal: |
+| 1100 1010 1111 1110               |
+| (Help: man hex)                   |
+|                                   |
+-------------------------------------
+$->$cafe|CAFE|c a f e|C A F E$catout menus/main_menu$rm main_menu_CORRUPTED.txt -r$mkres menus/main_menu . main_menu$mkres link/instruction5 /players/link instruction5

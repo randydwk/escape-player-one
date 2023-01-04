@@ -1,0 +1,20 @@
+       _-_ 
+    %/~*~   ~~\8
+ /~~         s~~\
+{   "h    \     
+ \  _-     -v_  /@
+   /~  \\* 
+       #|
+       | ù
+      // \\
+-------------------------------------
+|                                   |
+| The trees are corrupted.          |
+|                                   |
+| Type the answer in binary:        |
+| ((11001 AND 01011) OR 10010)      |
+|                                   |
+| (Help: man binary)                |
+|                                   |
+-------------------------------------
+$->$11011$catout game_data/trees$rm trees_CORRUPTED.txt -r$mkres game_data/trees . trees$mkres link/instruction1 /players/link instruction1

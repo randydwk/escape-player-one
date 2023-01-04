@@ -1,0 +1,23 @@
+
+   @   / _______g_____$___
+O|=g==| />___*______#___µ__>
+      \|j     =
+
+// When the player uses the sword, we check every enemies around to see if they touch it
+
+ArrayList<Enemy> enemies;
+Weapon player_sword;
+
+for (int i = 0; ??; i++){
+    if (enemies.get(i).collidesWith(player_sword){
+        enemies.get(i).kill();
+    }
+}
+
+-------------------------------------
+|                                   |
+| The sword is corrupted.           |
+| (Help: man java)                  |
+|                                   |
+-------------------------------------
+$Replace ?? ->$i < enemies.size()|i<enemies.size()|i< enemies.size()|i <enemies.size()$catout game_data/sword$rm sword_CORRUPTED.txt -r$mkres game_data/sword . sword$mkres link/instruction2 /players/link instruction2

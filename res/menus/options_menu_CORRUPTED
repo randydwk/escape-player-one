@@ -1,0 +1,18 @@
+
+// When the players selects a menu, change the name of the current menu 
+
+String[] options = String[]{"Video","Audio","Controls"};
+int selection;
+String currentMenu = "Options";
+
+if (selection != -1){
+    currentMenu = ??;
+}
+
+-------------------------------------
+|                                   |
+| The options menu is corrupted.    |
+| (Help: man java)                  |
+|                                   |
+-------------------------------------
+$Replace ?? ->$options[selection]$catout menus/options_menu$rm options_menu_CORRUPTED.txt -r$mkres menus/options_menu . options_menu$mkres link/instruction7 /players/link instruction7

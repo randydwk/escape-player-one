@@ -1,0 +1,27 @@
+--------------------------------
+MAN - Manual pager utils
+
+NAME
+       man - an interface to the system reference manuals
+
+SYNOPSIS
+       man page
+
+DESCRIPTION
+       man  is  the system's manual pager.  Each page argument given to man is
+       normally the name of a program, utility or function.  The  manual  page
+       associated with each of these arguments is then found and displayed.
+
+       A manual page consists of several sections.
+
+       Conventional section names include NAME, SYNOPSIS, DESCRIPTION,
+       EXAMPLE, and AUTHORS.
+
+EXAMPLE
+       man ls
+           Display the manual page for the item (program) ls.
+
+AUTHORS
+       Written by Maddy De Wancker, Malak Hayar and Pierre Foulon.
+
+EPO Shell 8.32 - May 2022
