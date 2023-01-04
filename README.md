@@ -1,9 +1,8 @@
 # Ecape Player One
-<br/>
 
 #### AUTEURS
     
-Escape Game créé par Maddy De Wancker, Malak Hayar et Pierre Foulon.
+Escape Game créé par Randy De Wancker, Malak Hayar et Pierre Foulon.
 <br/><br/>
 
 #### LANCER L'ESCAPE GAME
